@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @biglekan
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning front end web development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
